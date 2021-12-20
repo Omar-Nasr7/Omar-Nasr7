@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omar-Nasr7
 - 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python , SQL and Statistics.
 - 💞️ I’m looking to collaborate on Data Analysis projects.
 - 📫 How to reach me omar.n.o@outlook.com
 
