@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Omar-Nasr7
-- 👀 I’m interested in Data Analysis.
+- 👋 Hi, I’m @Omar-Nasr
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Python , SQL and Statistics.
-- 💞️ I’m looking to collaborate on Data Analysis projects.
+- 💞️ I’m looking to collaborate on Web and Mobile application projects.
 - 📫 How to reach me omar.n.o@outlook.com
 
 <!---
